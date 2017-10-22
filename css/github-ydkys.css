@@ -1,0 +1,21 @@
+#js-repo-pjax-container {
+  background: #282c34;
+}
+
+.markdown-body {
+  background-color: #282c34 !important;
+  color: #abb2bf;
+}
+
+/*.entry-content { background-color: #282c34 !important; }*/
+
+h1 { color: #c678dd; }
+
+h2 { color: #5cb079; }
+
+h3 { color: #d18c4e; }
+
+code {
+  background: #5b5f67;
+  color: #dee5ff;
+}
